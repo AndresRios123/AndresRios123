@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Andrés Ríos</h1>
 
-<!--
-**AndresRios123/AndresRios123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Desarrollador Full Stack | React & Node.js  
+💼 Estudiante de Ingeniería de Software  
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+Soy un Ingeniero de software en formación, construyendo soluciones digitales eficientes desde cero — con curiosidad, estructura y muchas ganas.
+
+## 💼 Qué hago
+
+🔹 Desarrollo páginas web modernas  
+🔹 Construyo APIs con Node.js  
+🔹 Diseño interfaces con React  
+🔹 Creo soluciones para negocios reales  
+
+---
+
+## 🛠️ Tecnologías
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git" />
+</p>
+
+---
+
+## 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndresRios123&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: TU LINK  
+- Portafolio: TU LINK  

@@ -36,5 +36,5 @@ Soy un Ingeniero de software en formación, construyendo soluciones digitales ef
 
 ## 📫 Contacto
 
-- LinkedIn: TU LINK  
-- Portafolio: TU LINK  
+- LinkedIn: https://www.linkedin.com/in/andres-camilo-rios/  
+- Portafolio: https://portfolio-eight-bay-u3b044s3i6.vercel.app/en 

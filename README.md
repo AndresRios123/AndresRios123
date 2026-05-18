@@ -27,7 +27,7 @@ enfoque:    Soluciones digitales eficientes desde cero
 mentalidad: Curiosidad + Estructura + Determinación
 ```
 
-<br clear="right"/>
+<!-- <br clear="right"/> -->
 
 ---
 

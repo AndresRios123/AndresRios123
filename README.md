@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<!-- <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> -->
 
 ### 🧠 Sobre mí
 
@@ -27,7 +27,7 @@ enfoque:    Soluciones digitales eficientes desde cero
 mentalidad: Curiosidad + Estructura + Determinación
 ```
 
-<!-- <br clear="right"/> -->
+<br clear="right"/>
 
 ---
 

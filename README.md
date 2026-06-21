@@ -6,7 +6,7 @@
 ╚═══════════════════════════════════════════════════╝
 ```
 
-# Hola, soy Andrés 👋!!
+# Hola, soy Andrés 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Desarrollador+Full+Stack+%F0%9F%9A%80;React+%26+Node.js+Enthusiast+%E2%9A%A1;Ingeniero+de+Software+en+formaci%C3%B3n+%F0%9F%8E%93;Construyendo+soluciones+reales+%F0%9F%94%A7)](https://git.io/typing-svg)
 
